@@ -1,0 +1,6 @@
+{ "BigQuery Schema": [ { "name": "step", "type": "INTEGER" }, { "name": "customer", "type": "STRING" }, { "name": "age", "type": "INTEGER" }, { "name": "gender", "type": "STRING" }, { "name": "zipcodeOri", "type": "STRING" },  { "name": "merchant", "type": "STRING" },  { "name": "zipMerchant", "type": "STRING" },  { "name": "category", "type": "STRING" },  { "name": "amount", "type": "FLOAT" }, { "name": "fraud", "type": "INTEGER" } ] }
+
+
+
+
+					
